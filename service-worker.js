@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/venturus_frontend_test_2/precache-manifest.9a02ccafe605f929e051750bc4b03870.js"
+  "/venturus_frontend_test_2/precache-manifest.b4bda8b24d04e1bc4840925856d67e78.js"
 );
 
 self.addEventListener('message', (event) => {

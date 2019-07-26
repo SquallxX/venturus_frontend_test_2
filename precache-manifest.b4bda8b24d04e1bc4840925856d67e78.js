@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d92b55babf879a3039226c2ac7182231",
+    "revision": "f2cd9ffd86c64e88ded13d963e6324c0",
     "url": "/venturus_frontend_test_2/index.html"
   },
   {
-    "revision": "a5cd171ca027f102fea0",
+    "revision": "49b944362b959256e82e",
     "url": "/venturus_frontend_test_2/static/css/2.4aa6a59b.chunk.css"
   },
   {
-    "revision": "fb03eb071502f35c9356",
+    "revision": "195804af23e81ab2bcb2",
     "url": "/venturus_frontend_test_2/static/css/main.4b330a82.chunk.css"
   },
   {
-    "revision": "a5cd171ca027f102fea0",
-    "url": "/venturus_frontend_test_2/static/js/2.12da78ec.chunk.js"
+    "revision": "49b944362b959256e82e",
+    "url": "/venturus_frontend_test_2/static/js/2.2dae1467.chunk.js"
   },
   {
-    "revision": "fb03eb071502f35c9356",
-    "url": "/venturus_frontend_test_2/static/js/main.90e40494.chunk.js"
+    "revision": "195804af23e81ab2bcb2",
+    "url": "/venturus_frontend_test_2/static/js/main.9fc2106a.chunk.js"
   },
   {
     "revision": "53c09d33a2ff669edf67",
