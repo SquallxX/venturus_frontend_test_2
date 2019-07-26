@@ -15,7 +15,7 @@ To se this project in just one single page aplication, just click the link below
 - The logout button in the Dropdown Menu is working properly
 
 ### About the code
--Here we have the files from the build package. To see the code in dev-mode go to this repository:
+- Here we have the files from the build package. To see the code in dev-mode go to this repository:
 [https://github.com/SquallxX/venturus_frontend_test_2_devmode](https://github.com/SquallxX/venturus_frontend_test_2_devmode)
 
 Enjoy!
