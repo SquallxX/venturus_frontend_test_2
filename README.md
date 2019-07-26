@@ -2,7 +2,7 @@
 
 # Runing the project
 
-To se this project in just one single page aplication, just click the link below:
+To see this project in just one single page aplication, just click the link below:
 
 [https://squallxx.github.io/venturus_frontend_test_2/](https://squallxx.github.io/venturus_frontend_test_2/)
 
