@@ -4,7 +4,7 @@
 
 To see this project in just one single page aplication, just click the link below:
 
-[https://squallxx.github.io/venturus_frontend_test_2/](https://squallxx.github.io/venturus_frontend_test_2/)
+[https://felipedeamonteiro.github.io/venturus_frontend_test_2/](https://felipedeamonteiro.github.io/venturus_frontend_test_2/)
 
 ### `Instructions`
 - The Breadcrumb isn't working properly because this is a SPA. If you click in one of the links the aplication will crash;
@@ -16,6 +16,6 @@ To see this project in just one single page aplication, just click the link belo
 
 ### About the code
 - Here we have the files from the build package. To see the code in dev-mode go to this repository:
-[https://github.com/SquallxX/venturus_frontend_test_2_devmode](https://github.com/SquallxX/venturus_frontend_test_2_devmode)
+[https://github.com/felipedeamonteiro/venturus_frontend_test_2_devmode](https://github.com/SquallxX/venturus_frontend_test_2_devmode)
 
 Enjoy!
